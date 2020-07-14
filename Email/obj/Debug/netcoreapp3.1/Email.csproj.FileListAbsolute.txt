@@ -1,0 +1,8 @@
+C:\Users\kanedaboi_\Desktop\ITLA\Prog 3\Ibanking\Email\bin\Debug\netcoreapp3.1\Email.deps.json
+C:\Users\kanedaboi_\Desktop\ITLA\Prog 3\Ibanking\Email\bin\Debug\netcoreapp3.1\Email.dll
+C:\Users\kanedaboi_\Desktop\ITLA\Prog 3\Ibanking\Email\bin\Debug\netcoreapp3.1\Email.pdb
+C:\Users\kanedaboi_\Desktop\ITLA\Prog 3\Ibanking\Email\obj\Debug\netcoreapp3.1\Email.csproj.CoreCompileInputs.cache
+C:\Users\kanedaboi_\Desktop\ITLA\Prog 3\Ibanking\Email\obj\Debug\netcoreapp3.1\Email.AssemblyInfoInputs.cache
+C:\Users\kanedaboi_\Desktop\ITLA\Prog 3\Ibanking\Email\obj\Debug\netcoreapp3.1\Email.AssemblyInfo.cs
+C:\Users\kanedaboi_\Desktop\ITLA\Prog 3\Ibanking\Email\obj\Debug\netcoreapp3.1\Email.dll
+C:\Users\kanedaboi_\Desktop\ITLA\Prog 3\Ibanking\Email\obj\Debug\netcoreapp3.1\Email.pdb
